@@ -1,0 +1,12 @@
+Flask=3.0.3
+Flask-PyMongo
+Flask-Cors
+Flask-Bcrypt
+PyJWT
+python-dotenv
+web3
+torch
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
+Pillow
